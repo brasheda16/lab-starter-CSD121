@@ -8,6 +8,6 @@ Enter your name here: Rasheda Brown
 
 ## The best animals
 
-1. Cuttlefish
-2. Platypus
-3. Three-toed sloth
+1. Centipede
+2. Scorpion
+3. Alligator
