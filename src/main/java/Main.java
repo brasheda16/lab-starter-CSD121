@@ -69,7 +69,7 @@ void main() {
     }
 }
 
-    // Creates a list of all the prices and iterate through it to add them.
+    // This Creates a list of all the prices and iterate through it to add them.
     //Asks for the price of the current item
         double calculateTotal(Scanner scanner, int count) {
         List<Double> prices = new ArrayList<>();
