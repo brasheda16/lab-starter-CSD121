@@ -82,7 +82,7 @@ void main() {
         }
         double total = 0.0;
         for (double price: prices) {
-            total += price; // add price to total
+            total += price; // This adds price to total
         }
 
             return total; // Returns the final Cost
