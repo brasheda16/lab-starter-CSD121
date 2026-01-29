@@ -120,7 +120,7 @@ void showAvatar(InputStream imageStream) {
 
     try {
         // Load the PNG image
-        // .read () is a class method
+        //.read () is a class method
         //read() converts InputStream into an Image
         //image Image is a reference variable
         //new JLabel() is a constructor
