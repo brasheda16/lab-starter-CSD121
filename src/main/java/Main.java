@@ -23,7 +23,7 @@ public class Main {
         Console.println("--------HIGH CARD--------");
 
         /**
-         * -Prompt the player for names
+         * Prompt the player for names
          */
 
         String n1 = Console.prompt("Player 1: ");

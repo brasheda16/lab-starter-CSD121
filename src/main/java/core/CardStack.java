@@ -11,7 +11,7 @@ package core;
 import java.util.*;
 
 /**
- * -Shows a full deck of cards
+ * Shows a full deck of cards
  *
  */
 

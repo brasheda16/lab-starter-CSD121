@@ -24,7 +24,7 @@ public class Player {
     private final Deque<Card> hand;
 
     /**
-     * -Constructs a Player with a name and an initial list of cards
+     * Constructs a Player with a name and an initial list of cards
      * @param n the players name
      * @param cards the list of cards given to the player
      */

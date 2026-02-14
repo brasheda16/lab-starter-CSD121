@@ -9,7 +9,7 @@
 package core;
 
 /**
- * -A high card game between two players
+ * A high card game between two players
  *
  * each rounds:
  * Both players draw one card

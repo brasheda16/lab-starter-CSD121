@@ -48,7 +48,7 @@ enum  Rank {
     private final int value;
 
     /**
-     * -Constructs a rank with a symbol and numeric value
+     * Constructs a rank with a symbol and numeric value
      * @param symbol
      * @param value
      */
